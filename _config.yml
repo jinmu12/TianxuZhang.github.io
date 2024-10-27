@@ -12,7 +12,7 @@ title                    : "Tianxu Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Tianxu Zhang"
 description              : &description "a Second year master student"
-url                      : https://TianxuZhang.github.io
+url                      : "https://jinmu12.github.io/TianxuZhang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinmu12/TianxuZhang.github.io"
 
