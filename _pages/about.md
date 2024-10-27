@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master student from [School of CCST](https://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). My research interest includes Computer Vision, Data Mining, Machine Learning, and Multimodal Learning.I am very fortunate to be advised by Prof. Wanfu Gao  from School of Computer Science, Jilin University.
+I'm a second year master student from [School of CCST](https://ccst.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). My research interest includes Computer Vision, Data Mining, Machine Learning, and Multimodal Learning.
+
+I am very fortunate to be advised by Prof. Wanfu Gao  from School of Computer Science, Jilin University.
 
 
 
