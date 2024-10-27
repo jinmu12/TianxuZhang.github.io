@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Tianxu Zhang/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tianxu Zhang"
+description              : &description "a Second year master student"
 url                      : https://github.com/jinmu12/TianxuZhang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
