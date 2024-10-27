@@ -17,5 +17,5 @@ Education
 Work experience
 ======
 
-Publications：
+Publications
 ======
