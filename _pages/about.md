@@ -13,5 +13,5 @@ I am very fortunate to be advised by Prof. Wanfu Gao  from School of Computer Sc
 
 
 
-[Email](mailto:txzhang23@mails.jlu.edu.cn) / [Github](https://github.com/jinmu12) / [Wechat](../images/ztx.png) 
+[Email](mailto:txzhang23@mails.jlu.edu.cn) / [Github](https://github.com/jinmu12) / [Wechat](../images/ztx.jpg) 
 
